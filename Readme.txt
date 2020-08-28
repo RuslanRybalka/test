@@ -1,4 +1,4 @@
 first line
 second line
-local separate line
+separeta line
 third line
